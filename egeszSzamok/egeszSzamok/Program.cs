@@ -10,6 +10,8 @@ namespace egeszSzamok
     {
         static void Main(string[] args)
         {
+            a=0;
+            b=1; 
             int a;
             int c;
             int b;
